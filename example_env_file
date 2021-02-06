@@ -1,0 +1,8 @@
+# Get the token with @botfather.
+TELEGRAM_TOKEN=12345678:AABBccDDeeFFGGhhiijj11KK22LLmmNN33
+# Instructions to get an ID: https://apidocs.imgur.com
+IMGUR_ID=123a45b67890123
+# Debug can be True or False
+DEBUG=True
+# replace with your telegram ID
+OWNER_ID=59802458
