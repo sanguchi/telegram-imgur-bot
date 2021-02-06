@@ -16,3 +16,6 @@ Create a file called ".env"
 > and edit with your data  
 
 _Finally:_ run `python bot.py`  
+
+
+Bot: https://t.me/photo_uploader_bot
